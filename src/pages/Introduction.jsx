@@ -33,8 +33,8 @@ const Introduction = () => {
 
         <div className="w-full border-2 border-purple-500 rounded-full order-1 lg:order-2 lg:w-[30%] lg:h-fit overflow-hidden">
           <img
-            src="/venugopal.jpg"
-            alt="venugopal-image"
+            src="/saikumar.jpg"
+            alt="saikumar-image"
             className=" transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110 rounded-full w-full h-fit"
           />
         </div>
@@ -42,11 +42,11 @@ const Introduction = () => {
         {/* bio data and description section */}
         <div className="w-full lg:w-[50%] order-1 lg:order-1 p-2 text-center lg:text-start  ">
           <h2 className="text-4xl text-white flex flex-col gap-3 font-medium">
-            Hi, I am
+            Hi, This is 
             <h1>{bioData.name}</h1>
           </h2>
           <h5 className="text-white text-2xl lg:text-3xl my-4 font-medium">
-            I am a{" "}
+            {" "}
             <span className="text-purple-600">
               <Typewriter
                 words={bioData.roles}

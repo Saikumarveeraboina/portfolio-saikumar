@@ -191,12 +191,12 @@ const Contact = () => {
                   </a>
                   <a
                     href="#projects"
-                    className="text-md lg:text-[1.2rem] text-white font-semibold hover:text-blue-500"
+                    className = "text-md lg:text-[1.2rem] text-white font-semibold hover:text-blue-500"
                   >
                     Projects
                   </a>
                   <a
-                    href="#education"
+                    href="#education" 
                     className="text-md lg:text-[1.2rem] text-white font-semibold hover:text-blue-500"
                   >
                     Education
@@ -250,7 +250,7 @@ const Contact = () => {
                     />
                   </a>
                 </nav>
-                <p>© 2025 Godugu Venu Gopal. All rights reserved.</p>
+                <p>© 2026 V Sai kumar. All rights reserved.</p>
               </section>
             </div>
           </div>
