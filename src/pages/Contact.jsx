@@ -35,9 +35,9 @@ const Contact = () => {
     if (!data.message || !data.email || !data.message) {
       setError(true);
     } else {
-      const serviceID = "service_2xtog3p";
-      const templateID = "template_rwq1e4h";
-      const publicKey = "KqiR9Hwh-Gyan-y1P";
+      const serviceID = "service_bc176cf";
+      const templateID = "template_sj18v2i";
+      const publicKey = "LG2EhgCvQ-5_9o4bk";
       setSpinner(true);
       emailjs
         .send(serviceID, templateID, data, publicKey)
