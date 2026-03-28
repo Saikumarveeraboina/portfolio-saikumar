@@ -177,7 +177,7 @@ export const projects = [
     techstack: ["React.js", "Firebase", "Firestore,", "Authentication"],
     category: "frontend",
     github: "https://github.com/Saikumarveeraboina/Omega-Site",
-    webapp: "https://omegapg-mca.vercel.app",
+    webapp: "https://students-clg-portal.vercel.app/",
   },
   {
     id: 2,
