@@ -14,7 +14,7 @@ export const bioData = {
     "Full-Stack (MERN) Developer passionate about building high-performance, scalable, and user-friendly web applications. Skilled in crafting intuitive interfaces and efficient back-end systems. Always learning and innovating to deliver cutting-edge digital solutions.",
   github: "https://github.com/Saikumarveeraboina",
   resume:
-    "https://drive.google.com/file/d/1gHqS56Suj8EwzxOFMG220Q__N5qhCBpa/view?usp=sharing",
+    "https://drive.google.com/file/d/1AAbJjGFwkVoWLT9dNfwexx-uvanAVhpe/view?usp=sharing",
   linkedin:
     "https://www.linkedin.com/in/veeraboina-saikumar",
   instagram:
